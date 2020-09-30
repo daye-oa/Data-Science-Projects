@@ -1,6 +1,6 @@
 # Data-Science-Projects
 
-# The Purpose of this to work onm differnet Data set to improve our skill amd experience
+# The Purpose of this reop is to work on differnet Data set to improve our skill amd experience
 
 The Data set we'll be working on will be uploaded per project.
 
