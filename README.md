@@ -1,13 +1,13 @@
 # Data-Science-Projects
 
-# The Purpose of this repo is to work on different Dataset to improve our skill amd experience
+# The Purpose of this repo is to work on different Dataset to improve our skill and experience
 
-The Data set we'll be working on will be uploaded per project.
+The Data sets will be uploaded per project.
 
-Taks to be carried out.
+Task to be carried out.
 
 1. EDA (exploratory data analysis)
 2. Model selection and testing
 3. Optimisatin of the above 
 
-Please if there're amy other suggestion, let's indicate on the WhatsApp group
+Please if there're any other suggestion, let's indicate on the WhatsApp group
