@@ -8,6 +8,6 @@ Task to be carried out.
 
 1. EDA (exploratory data analysis)
 2. Model selection and testing
-3. Optimisatin of the above 
+3. Optimisation of the above 
 
 Please if there're any other suggestion, let's indicate on the WhatsApp group
