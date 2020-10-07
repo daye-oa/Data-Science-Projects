@@ -1,6 +1,6 @@
-# Data-Science-Projects
+## Data-Science-Projects
 
-## The Purpose of this repo is to work on different Dataset to improve our skill and experience
+### The Purpose of this repo is to work on different Dataset to improve our skill and experience
 
 The Data sets will be uploaded per project.
 
