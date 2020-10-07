@@ -1,10 +1,10 @@
-# Data-Science-Projects
+## Data-Science-Projects
 
-## The Purpose of this repo is to work on different Dataset to improve our skill and experience
+### The Purpose of this repo is to work on different Dataset to improve our skill and experience
 
 The Data sets will be uploaded per project.
 
-Task to be carried out.
+### Task to be carried out.
 
 1. EDA (exploratory data analysis)
 2. Model selection and testing
@@ -12,19 +12,19 @@ Task to be carried out.
 
 Please if there're any other suggestion, let's indicate on the WhatsApp group
 
-## Column Description
+### Column Description
 
-price = The price of the building when its not in the estate
+**Price** = The price of the building when its not in the estate
 
-Bederooms = Number of bedrooms
+**Bedrooms** = Number of bedrooms
 
-Bathrooms = Numberer of bathrooms
+**Bathrooms** = Numberer of bathrooms
 
-Toilet = Number of Toilet
+**Toilet** = Number of Toilet
 
-Estate_flag = is the building in an estate or not
+**Estate_flag** = is the building in an estate or not
 
-terrace_flag = class of its architecture
+**terrace_flag** = class of its architecture
 
 **new_flag** = degree of newness
 
@@ -38,12 +38,12 @@ terrace_flag = class of its architecture
 
 **new_price** = price of its new counterpart
 
-exec_flag = level of how executive it is.
+**exec_flag** = level of how executive it is.
 
-locationbed = sub_location
+**locationbed** = sub_location
 
-location = location
+**location** = location
 
-spec_location = full location address
+**spec_location** = full location address
 
-description = description
+**description** = description
