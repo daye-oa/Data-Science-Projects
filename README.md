@@ -16,4 +16,4 @@ Please if there're any other suggestion, let's indicate on the WhatsApp group.
 ## Table of Contents
 Project Name | Description |
 |---|---|
-| [Housing Price Prediction]() | Predict the house price in Nigeria |
+| [Housing Price Prediction](https://github.com/daye-oa/Data-Science-Projects/tree/master/Housing%20Prediction) | Predict the house price in Nigeria |
