@@ -11,6 +11,14 @@
 2. Model selection and testing
 3. Optimisation of the above 
 
+## the link to the Dataset we're going to use
+
+https://www.kaggle.com/datatattle/covid-19-nlp-text-classification
+
+We'll be handling Multi-Classification analysis
+
+## Description of Dataset
+
 Please if there're any other suggestion, let's indicate on the WhatsApp group.
 
 ## Table of Contents
