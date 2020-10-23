@@ -19,6 +19,15 @@ We'll be handling Multi-Classification analysis
 
 ## Description of Dataset
 
+Perform Text Classification on the data. The tweets have been pulled from Twitter and manual tagging has been done then.
+The names and usernames have been given codes to avoid any privacy concerns.
+
+Columns:
+1) Location
+2) Tweet At
+3) Original Tweet
+4) Label
+
 Please if there're any other suggestion, let's indicate on the WhatsApp group.
 
 ## Table of Contents
