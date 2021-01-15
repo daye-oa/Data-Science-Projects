@@ -34,3 +34,4 @@ Please if there're any other suggestion, let's indicate on the WhatsApp group.
 Project Name | Description |
 |---|---|
 | [Housing Price Prediction](https://github.com/daye-oa/Data-Science-Projects/tree/master/Housing%20Prediction) | Predict the house price in Nigeria |
+| [Corona Tweet NLP](https://github.com/daye-oa/Data-Science-Projects/tree/master/Corona%20Tweets%20NLP%20(multi-class)) | Perform sentiment classification of the sentences |
